@@ -1,6 +1,6 @@
 ### Hi there, I'm Vin - aka [Vinbopo][website] 👋
 
-[![Website]
+[![Website](]https://twitter.com/vinbopo)
 [![Twitter Follow]((https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]https://twitter.com/vinbopo)
 
 ## I'm a Student, and a Developer 
@@ -36,12 +36,7 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
 
-
-</details>
 
 
 
