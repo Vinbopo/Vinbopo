@@ -1,4 +1,4 @@
-### Hi there, I'm Vin - aka [Vinbopo][website] 👋
+### Hi there, I'm Vin - aka [Vinbopo][github] 👋
 
 [![Website](]https://twitter.com/vinbopo)
 [![Twitter Follow]((https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]https://twitter.com/vinbopo)
@@ -45,3 +45,4 @@
 [twitter]: https://twitter.com/vinbopo
 [youtube]: https://www.youtube.com/channel/UCtFn84886bBVH_9hiMhFTDw
 [instagram]: https://www.instagram.com/avisenakemal/
+[github]: https://github.com/Vinbopo
