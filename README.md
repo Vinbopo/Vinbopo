@@ -12,7 +12,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vinbopo Spotify Playing" width="350" />](https://open.spotify.com/user/ylxfmd04qyv0mdx86pyqwxu6y)
+[<img src="https://spotify-now-playing-umber-three.vercel.app
+/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
 
 ### Connect with me:
 
