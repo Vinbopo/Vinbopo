@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-git-master-vinbopo.vercel.app/" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ylxfmd04qyv0mdx86pyqwxu6y?si=YpmuibXDS-uYsMUuvkXxlQ&nd=1)
+[<img src="https://spotify-now-playing-git-master-vinbopo.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ylxfmd04qyv0mdx86pyqwxu6y?si=YpmuibXDS-uYsMUuvkXxlQ&nd=1)
 
 ### Connect with me:
 
