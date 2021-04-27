@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Learn Js
 - ⚡ Fun fact: I love to play games and watch anime 
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-git-master-vinbopo.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ylxfmd04qyv0mdx86pyqwxu6y?si=YpmuibXDS-uYsMUuvkXxlQ&nd=1)
 
 ### Connect with me:
 
@@ -50,7 +47,7 @@
 ---
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinbopo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
