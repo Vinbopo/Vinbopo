@@ -59,12 +59,9 @@
 
 
 
-[vscode]: https://code.visualstudio.com/
+
 [Website]: https://vinbopo.github.io/login
 [twitter]: https://twitter.com/vinbopo
 [youtube]: https://www.youtube.com/channel/UCtFn84886bBVH_9hiMhFTDw
 [instagram]: https://www.instagram.com/avisenakemal/
 [github]: https://github.com/Vinbopo
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
