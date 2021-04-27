@@ -3,7 +3,7 @@
 [Website]
 [Twitter Follow]
 
-## I'm a Student, and a Developer 
+## I'm a Student.
 
 - 🌱 I’m currently learning Python,Js,Html and Css 
 - 📬 My Discord : ~Bitwise#6433
