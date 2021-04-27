@@ -1,7 +1,7 @@
 ### Hi there, I'm Vin - aka [Vinbopo][github] 👋
 
-[![Website]
-[![Twitter Follow]
+[Website]
+[Twitter Follow]
 
 ## I'm a Student, and a Developer 
 
