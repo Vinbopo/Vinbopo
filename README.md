@@ -6,7 +6,7 @@
 ## I'm a Student, and a Developer 
 
 - 🌱 I’m currently learning Python,Js,Html and Css 
-- 👯 I’m looking to collaborate with other developers
+- 📬 My Discord : ~Bitwise#6433
 - 🥅 2021 Goals: Learn Js
 - ⚡ Fun fact: I love to play games and watch anime 
 
