@@ -37,7 +37,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<img style="height: 400px; width: 500px; margin-right: 100px;" src="https://media1.tenor.com/images/f72035e032125a5395883b8d68d9df5d/tenor.gif">
+<img style="height: 400px; width: 500px; margin-right: 100px;" src="https://vinbopo.github.io/uwu/">
 <br/>
 <br/>
 
