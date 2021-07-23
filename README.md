@@ -5,7 +5,7 @@
 
 ## I'm a Student.
 
-- 🌱 I’m currently learning Python,Js,Html and Css 
+- 🌱 I’m currently learning Python, Js, Html and Css 
 - 📬 My Discord : ~Bitwise#6433
 - 🥅 2021 Goals: Learn Js
 - ⚡ Fun fact: I love to play games and watch anime 
@@ -34,7 +34,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img style="height: 400px; width: 500px; margin-right: 100px;" src="https://media1.tenor.com/images/f72035e032125a5395883b8d68d9df5d/tenor.gif">
 <br />
 <br />
 
