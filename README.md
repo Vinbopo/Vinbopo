@@ -9,6 +9,7 @@
 - 📬 My Discord : ~Bitwise#6433
 - 🥅 2021 Goals: Learn Js
 - ⚡ Fun fact: I love to play games and watch anime 
+- 👺 He/Him
 
 
 ### Connect with me:
