@@ -1,4 +1,3 @@
-<html>
 ### Hi there, I'm Vin - aka [Vinbopo][github] 👋
 
 [Website]
@@ -38,10 +37,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<iframe src="https://vinbopo.github.io/uwu"></iframe>
+https://user-images.githubusercontent.com/75649408/126737558-3ef4e917-302d-44a6-8bdf-68cc2ced8a5f.mp4
 <br/>
 <br/>
-             </body>
+             
 
 ---
 
@@ -65,4 +64,4 @@
 [youtube]: https://www.youtube.com/channel/UCtFn84886bBVH_9hiMhFTDw
 [instagram]: https://www.instagram.com/avisenakemal/
 [github]: https://github.com/Vinbopo
-</html>
+
