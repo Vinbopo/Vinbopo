@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/75649408/126744177-0389314f-2e44-432c-
 </a>
 
 
-
+<img src="https://github.com/flaviamuntean/flaviamuntean/blob/output/github-contribution-grid-snake.svg" alt="Snake Gif" /> <br/><br/>
 
 
 
