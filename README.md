@@ -37,7 +37,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<p>img align="right" alt="mp4" src="https://user-images.githubusercontent.com/75649408/126737558-3ef4e917-302d-44a6-8bdf-68cc2ced8a5f.mp4"<p>
+<p>img align="right" alt="gif" src="https://user-images.githubusercontent.com/75649408/126737558-3ef4e917-302d-44a6-8bdf-68cc2ced8a5f.mp4"<p>
 <br/>
 <br/>
              
