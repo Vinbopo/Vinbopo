@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/75649408/126744177-0389314f-2e44-432c-
 </a>
 
 
-<img src="https://github.com/flaviamuntean/flaviamuntean/blob/output/github-contribution-grid-snake.svg" alt="Snake Gif" /> <br/><br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Vinbopo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) /> <br/><br/>
 
 
 
